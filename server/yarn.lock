@@ -63,6 +63,13 @@
     "@types/express" "*"
     "@types/passport" "*"
 
+"@types/passport-strategy@^0.2.35":
+  version "0.2.35"
+  resolved "https://registry.yarnpkg.com/@types/passport-strategy/-/passport-strategy-0.2.35.tgz#e52f5212279ea73f02d9b06af67efe9cefce2d0c"
+  dependencies:
+    "@types/express" "*"
+    "@types/passport" "*"
+
 "@types/passport@*", "@types/passport@^1.0.6":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@types/passport/-/passport-1.0.6.tgz#72343e49d65efa98cb328163cff5f127981947d7"
@@ -82,6 +89,12 @@
   resolved "https://registry.yarnpkg.com/@types/serve-static/-/serve-static-1.13.9.tgz#aacf28a85a05ee29a11fb7c3ead935ac56f33e4e"
   dependencies:
     "@types/mime" "^1"
+    "@types/node" "*"
+
+"@types/xml2js@^0.4.8":
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/@types/xml2js/-/xml2js-0.4.8.tgz#84c120c864a5976d0b5cf2f930a75d850fc2b03a"
+  dependencies:
     "@types/node" "*"
 
 abbrev@1:
