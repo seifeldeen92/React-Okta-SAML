@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@types/passport-strategy": "^0.2.35",
-    "@types/xml2js": "^0.4.8"
-  }
-}
