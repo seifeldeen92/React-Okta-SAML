@@ -14,7 +14,7 @@ const config = {
     port: EXPRESS_PORT,
   },
   session: {
-    saveUnitialized: true,
+    saveUninitialized: true,
     resave: false,
     secret: "secret",
   },

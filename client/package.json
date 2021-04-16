@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "author": "Seif ElDeen Khaled (seifeldeen92)",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^12.0.0",
