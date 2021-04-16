@@ -65,5 +65,8 @@ https://www.youtube.com/watch?v=xUL59SKiwmE by [@joeythelantern](https://github.
 
    [node.js]: <http://nodejs.org>
    [express]: <http://expressjs.com>
+   [React]: <https://reactjs.org/>
+   [passport]: <http://www.passportjs.org/>
+   [passport saml]: <https://github.com/node-saml/passport-saml>
 
 
