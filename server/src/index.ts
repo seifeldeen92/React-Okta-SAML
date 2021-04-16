@@ -22,8 +22,8 @@ const main = () => {
     next();
   });
 
-  app.get("/hello", (_req, res) => {
-    return res.status(200).send({ message: "hello" });
+  app.get("/ping", (_req, res) => {
+    return res.status(200).send({ message: "pong" });
   });
 
   app.use((_req, res, _next) => {
